@@ -1,0 +1,2 @@
+- replace (/sconcurrently/s) with single space on all input text.
+-
