@@ -1,2 +1,2 @@
 - replace (/sconcurrently/s) with single space on all input text.
--
+- show notices in extension log
